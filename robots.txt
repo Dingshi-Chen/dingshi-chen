@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://dingshi-chen.github.io/dingshi-chen/sitemap.xml
